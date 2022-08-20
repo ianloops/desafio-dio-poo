@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eefde0c3-1236-4227-a2bd-542202a54e22" name="Changes" comment="gitignore refactor">
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+    <list default="true" id="eefde0c3-1236-4227-a2bd-542202a54e22" name="Changes" comment="first classes and objects, getters, setters and to string">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661020651929</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="gitignore refactor">
+      <created>1661023580930</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661023580930</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first classes and objects, getters, setters and to string">
+      <created>1661023710992</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661023710992</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +110,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore updated" />
     <MESSAGE value="gitignore refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore refactor" />
+    <MESSAGE value="first classes and objects, getters, setters and to string" />
+    <option name="LAST_COMMIT_MESSAGE" value="first classes and objects, getters, setters and to string" />
   </component>
 </project>
